@@ -19,9 +19,9 @@ Here are some ideas to get you started:
   <img align="right" width="40%" src="https://avatars.githubusercontent.com/xingerazi">
 </div>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/> We're Argus！
+## <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30" height="80%"/> We're Argus！
 
-**密钥泄露勿缺勿滥 ———Argus**
+<h3 align="left">密钥泄露勿缺勿滥 ———Argus</h3>
 
 We are the Argus team, dedicated to detecting sensitive information leaks in open-source repositories and preventing security risks such as exposed credentials. Our team integrates cutting-edge technologies, including automated scanning, machine learning, and efficient security strategies, to ensure the security of codebases. 
 
