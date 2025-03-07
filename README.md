@@ -18,22 +18,21 @@ Here are some ideas to get you started:
 <img align="center" src="https://cardivo.vercel.app/api?name=Argus&description=Argus团队---使用agents进行密钥泄露检测&image=https://avatars.githubusercontent.com/xingerazi&usqp=CAU&backgroundColor=%23ecf0f1&github=xingerazi&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20xingerazi"/>
 
 <div>
-  <img align="right" width="30%" src="https://emojis.slackmojis.com/emojis/images/1701760410/79920/santacatq.png?1701760410">
+  <img align="right" width="20%" src="https://emojis.slackmojis.com/emojis/images/1701760410/79920/santacatq.png?1701760410">
 </div>
 
 
-<h3 align="left">密钥泄露勿缺勿滥 ———Argus</h3>
+<h3 align="left">No More, No Less —— Argus</h3>
 
-- 🔭 We are the Argus team, dedicated to detecting sensitive information leaks in open-source repositories and preventing security risks such as exposed credentials.
-- 🌱 Our team integrates cutting-edge technologies, including automated scanning, machine learning, and efficient security strategies, to ensure the security of codebases. 
-- 👯 If you are interested in our work, feel free to reach out—we look forward to collaborating to enhance open-source security!
-
+- 🔭 We are the Argus team, focused on detecting sensitive information leaks in open-source repositories and preventing credential exposure.
+- 🌱 We utilize automated scanning, machine learning, and security strategies to safeguard codebases.codebases. 
+- 👯 Interested in our work? Reach out—we’d love to collaborate on open-source security!
 <h3 align="left">OUR SKILL </h3>
 
-- 🤔 We specialize in detecting credential leaks using RE (Regular Expressions) + Agent-based approaches, combining rule-based pattern matching with intelligent automation. 
-- 💬 Our methodology leverages precise regular expression-based detection to identify sensitive information efficiently, while our agent-driven system enhances detection accuracy through contextual analysis and adaptive learning.
-- 📫 By integrating these techniques, we ensure comprehensive and scalable secret detection, minimizing false positives while effectively securing open-source repositories.
-- 😄  Our team continuously refines our detection strategies to stay ahead of emerging security threats.
+- 🤔 We detect credential leaks using RE (Regular Expressions) + Agent-based methods, combining rule-based matching with automation.
+- 💬 Our approach ensures precise detection with contextual analysis and adaptive learning.
+- 📫 We minimize false positives and provide scalable secret detection for open-source security.
+- 😄 Our team continuously improves detection strategies to counter emerging threats.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xingerazi/xingerazi/output/github-contribution-grid-snake-dark.svg">
