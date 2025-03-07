@@ -19,12 +19,7 @@ Here are some ideas to get you started:
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/> We're Argus！
 
-**密钥泄露勿缺勿滥 ———Argus**
-
-We are the Argus team, dedicated to detecting sensitive information leaks in open-source repositories and preventing security risks such as exposed credentials. Our team integrates cutting-edge technologies, including automated scanning, machine learning, and efficient security strategies, to ensure the security of codebases. 
-If you are interested in our work, feel free to reach out—we look forward to collaborating to enhance open-source security!
 
 <h3 align="left">OUR SKILL </h3>
 
