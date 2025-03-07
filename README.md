@@ -12,13 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/>  We're Argus！
+
 <img align="center" src="https://cardivo.vercel.app/api?name=Argus&description=Argus团队---使用agents进行密钥泄露检测&image=https://avatars.githubusercontent.com/xingerazi&usqp=CAU&backgroundColor=%23ecf0f1&github=xingerazi&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20xingerazi"/>
 
 <div>
-  <img align="right" width="10%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://emojis.slackmojis.com/emojis/images/1701760410/79920/santacatq.png?1701760410">
 </div>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/>  We're Argus！
 
 <h3 align="left">密钥泄露勿缺勿滥 ———Argus</h3>
 - 🔭 We are the Argus team, dedicated to detecting sensitive information leaks in open-source repositories and preventing security risks such as exposed credentials.
