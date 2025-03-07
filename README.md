@@ -28,26 +28,18 @@ Here are some ideas to get you started:
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/> We're Argus
+## <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/> We're Argus！
 
 **密钥泄露勿缺勿滥 ———Argus**
 
+We are the Argus team, dedicated to detecting sensitive information leaks in open-source repositories and preventing security risks such as exposed credentials. Our team integrates cutting-edge technologies, including automated scanning, machine learning, and efficient security strategies, to ensure the security of codebases. 
+If you are interested in our work, feel free to reach out—we look forward to collaborating to enhance open-source security!
 
-My name is Jack Zhang. I am an undergraduate student at Harbin Institute of Technology(Weihai). I  am interested in various fields including Reinforcement Learning and LLM.
-I also love reading novels and poems.  
-If you are interested in me, your contact is highly anticipated!
+<h3 align="left">OUR SKILL </h3>
 
-<h3 align="left">OUR SKILLS </h3>
+We specialize in detecting credential leaks using RE (Regular Expressions) + Agent-based approaches, combining rule-based pattern matching with intelligent automation. Our methodology leverages precise regular expression-based detection to identify sensitive information efficiently, while our agent-driven system enhances detection accuracy through contextual analysis and adaptive learning.
 
-- **Research Internship, Great Bay University, advised by [Zitong Yu](https://zitongyu.github.io/).**
-We  propose AdaMHF: An Adaptive Multi-modal Hierarchical Fusion for Survival Analysis . More works in progress.
+By integrating these techniques, we ensure comprehensive and scalable secret detection, minimizing false positives while effectively securing open-source repositories. Our team continuously refines our detection strategies to stay ahead of emerging security threats.
 
-- **Research Internship, Renmin University of China, [AI Box team](http://aibox.ruc.edu.cn/).**
-I just pass the assessment and now are learning knowledge about LLM and reinforcement learning.
 
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://blog.csdn.net/qq_35328355/article/details/141034499?spm=1001.2014.3001.5501">Poisson Distribution</a></li>
-  <li><a href="https://blog.csdn.net/qq_35328355/article/details/140288463?spm=1001.2014.3001.5501">Deploy a LLM locally via Ollama</a></li>
-</ul>
 ----------------------------------------------------------
