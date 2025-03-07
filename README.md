@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dc3f0369-252c-42ec-9867-3b08b30bb11e)## Hi there 👋
+## Hi there 👋
 
 <!--
 **xingerazi/xingerazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
