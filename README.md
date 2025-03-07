@@ -14,6 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="center" src="https://cardivo.vercel.app/api?name=Argus&description=Argus团队---使用agents进行密钥泄露检测&image=https://avatars.githubusercontent.com/xingerazi&usqp=CAU&backgroundColor=%23ecf0f1&github=xingerazi&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20xingerazi"/>
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+## <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/> We're Argus！
+
+**密钥泄露勿缺勿滥 ———Argus**
+
+We are the Argus team, dedicated to detecting sensitive information leaks in open-source repositories and preventing security risks such as exposed credentials. Our team integrates cutting-edge technologies, including automated scanning, machine learning, and efficient security strategies, to ensure the security of codebases. 
+If you are interested in our work, feel free to reach out—we look forward to collaborating to enhance open-source security!
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xingerazi/xingerazi/output/github-contribution-grid-snake-dark.svg">
