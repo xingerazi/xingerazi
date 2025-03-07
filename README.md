@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30" height="80%"/> 
 -->
 <img align="center" src="https://cardivo.vercel.app/api?name=Argus&description=Argus团队---使用agents进行密钥泄露检测&image=https://avatars.githubusercontent.com/xingerazi&usqp=CAU&backgroundColor=%23ecf0f1&github=xingerazi&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20xingerazi"/>
 <div>
   <img align="right" width="40%" src="https://avatars.githubusercontent.com/xingerazi">
 </div>
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30" height="80%"/> We're Argus！
+## We're Argus！
 
 <h3 align="left">密钥泄露勿缺勿滥 ———Argus</h3>
 
