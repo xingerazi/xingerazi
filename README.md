@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 **密钥泄露勿缺勿滥 ———Argus**
 
 We are the Argus team, dedicated to detecting sensitive information leaks in open-source repositories and preventing security risks such as exposed credentials. Our team integrates cutting-edge technologies, including automated scanning, machine learning, and efficient security strategies, to ensure the security of codebases. 
+
 If you are interested in our work, feel free to reach out—we look forward to collaborating to enhance open-source security!
 
 <h3 align="left">OUR SKILL </h3>
