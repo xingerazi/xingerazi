@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/>  We're Argus！
 
-<img align="center" src="https://cardivo.vercel.app/api?name=Argus&description=Argus团队---使用agents进行密钥泄露检测&image=https://avatars.githubusercontent.com/xingerazi&usqp=CAU&backgroundColor=%F6F8FA&github=xingerazi&site=Regards%20by%20xingerazi"/>
-
 <div>
   <img align="right" width="20%" src="https://emojis.slackmojis.com/emojis/images/1701760410/79920/santacatq.png?1701760410">
 </div>
@@ -33,6 +31,8 @@ Here are some ideas to get you started:
 - 💬 Our approach ensures precise detection with contextual analysis and adaptive learning.
 - 📫 We minimize false positives and provide scalable secret detection for open-source security.
 - 😄 Our team continuously improves detection strategies to counter emerging threats.
+  
+<img align="center" src="https://cardivo.vercel.app/api?name=Argus&description=Argus团队---使用agents进行密钥泄露检测&image=https://avatars.githubusercontent.com/xingerazi&usqp=CAU&backgroundColor=%F6F8FA&github=xingerazi&site=Regards%20by%20xingerazi"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xingerazi/xingerazi/output/github-contribution-grid-snake-dark.svg">
