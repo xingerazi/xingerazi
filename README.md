@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 📫 We minimize false positives and provide scalable secret detection for open-source security.
 - 😄 Our team continuously improves detection strategies to counter emerging threats.
   
-<img align="center" src="https://cardivo.vercel.app/api?name=Argus&description=Argus---no more no less just agents&image=https://avatars.githubusercontent.com/xingerazi&usqp=CAU&backgroundColor=%F6F8FA&github=xingerazi&site=Regards%20by%20xingerazi"/>
+<img align="center" src="https://cardivo.vercel.app/api?name=Argus&description=Argus---我no more no less just agents&image=https://avatars.githubusercontent.com/xingerazi&usqp=CAU&backgroundColor=%F6F8FA&github=xingerazi&site=Regards%20by%20xingerazi"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xingerazi/xingerazi/output/github-contribution-grid-snake-dark.svg">
