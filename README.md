@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif?1643514974" width="30"/>  We're Argus！
 
-<img align="center" src="https://cardivo.vercel.app/api?name=Argus&description=Argus团队---使用agents进行密钥泄露检测&image=https://avatars.githubusercontent.com/xingerazi&usqp=CAU&backgroundColor=%F6F8FA&github=xingerazi&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20xingerazi"/>
+<img align="center" src="https://cardivo.vercel.app/api?name=Argus&description=Argus团队---使用agents进行密钥泄露检测&image=https://avatars.githubusercontent.com/xingerazi&usqp=CAU&backgroundColor=%F6F8FA&github=xingerazi&site=Regards%20by%20xingerazi"/>
 
 <div>
   <img align="right" width="20%" src="https://emojis.slackmojis.com/emojis/images/1701760410/79920/santacatq.png?1701760410">
