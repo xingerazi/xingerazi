@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 👯 Interested in our work? Reach out—we’d love to collaborate on open-source security!
 <h3 align="left">OUR SKILL </h3>
 
-- 🤔 We detect credential leaks using RE (Regular Expressions) + Agent-based methods, combining rule-based matching with automation.
+- 🤔 We detect credential leaks using RE + Agent, combining rule-based matching with automation.
 - 💬 Our approach ensures precise detection with contextual analysis and adaptive learning.
 - 📫 We minimize false positives and provide scalable secret detection for open-source security.
 - 😄 Our team continuously improves detection strategies to counter emerging threats.
