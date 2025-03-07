@@ -14,15 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xingerazi/xingerazi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xingerazi/xingerazi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xingerazi/xingerazi/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-
 <img align="center" src="https://cardivo.vercel.app/api?name=Argus&description=Argus团队---使用agents进行密钥泄露检测&image=https://avatars.githubusercontent.com/xingerazi&usqp=CAU&backgroundColor=%23ecf0f1&github=xingerazi&pattern=ticTacToe&colorPattern=%23eaeaea&site=Regards%20by%20xingerazi"/>
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -41,5 +32,10 @@ We specialize in detecting credential leaks using RE (Regular Expressions) + Age
 
 By integrating these techniques, we ensure comprehensive and scalable secret detection, minimizing false positives while effectively securing open-source repositories. Our team continuously refines our detection strategies to stay ahead of emerging security threats.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xingerazi/xingerazi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xingerazi/xingerazi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xingerazi/xingerazi/output/github-contribution-grid-snake.svg">
+</picture>
 
 ----------------------------------------------------------
